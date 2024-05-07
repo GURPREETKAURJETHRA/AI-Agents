@@ -1,7 +1,7 @@
 # AI Agents💫
 Design Patterns for Autonomous AI Agents and Various Frameworks Like Autogen, Langraph, Taskweaver, CrewAI, etc
 
-## 🌟Agent Overview
+## 🌟Agent Architecture
 ![agent-overview](https://github.com/GURPREETKAURJETHRA/AI-Agents/blob/main/IMG/AgentOverview.png)
 
 ## 🌟Planner Component:
